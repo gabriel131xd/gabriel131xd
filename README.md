@@ -27,16 +27,6 @@
 * ⚙️ Automação de processos reais com análise de dados
 * 🧠 Interesse em arquiteturas multiagentes e LLMs
 
-<br>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriel131xd&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriel131xd&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<br>
-
-## Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,react,nodejs,docker,git,linux,vscode" />
